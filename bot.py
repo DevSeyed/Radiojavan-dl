@@ -5,9 +5,9 @@ from telebot import TeleBot
 from radiojavanapi import Client
 from moviepy.editor import VideoFileClip
 
-bot = TeleBot('6859067018:AAFLcsYGP3szlvz7-Rh76LQ7trzA6mJ3R8Y')
-channel_username = "@TrwNet"
-bot_username = "StreamTrwBoT"
+bot = TeleBot('TOKEN')
+channel_username = "@CHANNEL_USERNAME"
+bot_username = "BOTUSERNAME"
 
 def check_channel_membership(user_id):
     chat_member = bot.get_chat_member(channel_username, user_id)
