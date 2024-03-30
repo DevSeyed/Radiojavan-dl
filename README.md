@@ -1,8 +1,6 @@
 # 🎶 Radio Javan Telegram Bot 🎵
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![Python Version](https://img.shields.io/badge/Python-3.6%2B-blue)](https://www.python.org/downloads/)
-[![Telegram Bot](https://img.shields.io/badge/Telegram-Bot-blue)](https://telegram.org/)
+![DevSeyed Banner](https://via.placeholder.com/900x300/0d1117/58a6ff?text=Radio+Javan+Downloader)
 
 ## 📝 Description
 The **Radio Javan Telegram Bot** is a Python script that enables users to download media content from the Radio Javan platform directly through Telegram. This bot leverages the `telebot` library for Telegram bot functionality, the `radiojavanapi` library for accessing Radio Javan content, and the `moviepy` library for video processing. Users can seamlessly download and share songs, podcasts, and videos from Radio Javan using this bot.
