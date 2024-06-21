@@ -20,8 +20,8 @@ The **Radio Javan Telegram Bot** is a Python-based bot that allows users to down
 ## 🛠 Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/telegram-media-downloader-bot.git
-   cd telegram-media-downloader-bot
+   git clone https://github.com/DevSeyed/Radiojavan-dl.git
+   cd Radiojavan-dl
    ```
 
 2. Install the required libraries:
